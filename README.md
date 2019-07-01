@@ -1,4 +1,4 @@
-# flutter_emphance
+# EMPhance
 
 Employee management app
 
